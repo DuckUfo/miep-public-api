@@ -1,5 +1,5 @@
 {
-  "name": "DuckUfo/miep-public-api",
+  "name": "duckufo/miep-public-api",
   "type": "library",
   "description": "Max-immo External Partners API Client",
   "homepage": "https://github.com/zimmo-be/miep-php-api-client",
