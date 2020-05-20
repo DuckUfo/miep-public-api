@@ -1,10 +1,11 @@
 {
-  "name": "zimmobe/miep-php-api-client",
+  "name": "DuckUfo/miep-php-api-client",
   "type": "library",
   "description": "Max-immo External Partners API Client",
   "homepage": "https://github.com/zimmo-be/miep-php-api-client",
   "keywords": ["miep", "partner", "ep", "api"],
   "license": "MIT",
+  "version": "2.0",
   "authors": [
     {
       "name": "Zimmo.be Team",
